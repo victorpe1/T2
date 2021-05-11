@@ -33,4 +33,11 @@ public class menuController : MonoBehaviour
         SceneManager.LoadScene(0);
 
     }
+    public void RestartGame()
+    {
+
+        Time.timeScale = 1;
+        SceneManager.LoadScene(1);
+
+    }
 }

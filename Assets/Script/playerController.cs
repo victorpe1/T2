@@ -23,15 +23,8 @@ public class playerController : MonoBehaviour
     void Start()
     {
 
-        if (m_playerController == null)
-        {
-            m_playerController = this;
-            DontDestroyOnLoad(gameObject);
-        }
-        else
-        {
-            Destroy(gameObject);
-        }
+        m_playerController = this;
+           
 
         rigidbody2D = gameObject.GetComponent<Rigidbody2D>();
         animator = gameObject.GetComponent<Animator>();
@@ -97,6 +90,11 @@ public class playerController : MonoBehaviour
         {
             jump = true;
             doubleJump = true;
+        }
+        else if(collision.transform.tag == "caida")
+        {
+            FindObjectOfType<levelManager>().Restart();
+
         }
     }
 }

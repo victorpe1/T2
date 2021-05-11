@@ -13,15 +13,9 @@ public class puntosManage : MonoBehaviour
 
     private void Start()
     {
-        if (scoreManager == null)
-        {
+       
             scoreManager = this;
-            DontDestroyOnLoad(gameObject);
-        }
-        else
-        {
-            Destroy(gameObject);
-        }
+           
 
     }
     private void Update()
