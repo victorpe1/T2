@@ -1,0 +1,3288 @@
+fileFormatVersion: 2
+guid: d24ee2898555ab840a1c5c1e38906bd1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8994024569853636811
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_0
+  - first:
+      213: -1588879229526639921
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_1
+  - first:
+      213: -661826450641176528
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_2
+  - first:
+      213: 4936535994700128524
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_3
+  - first:
+      213: -6161722110009631488
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_4
+  - first:
+      213: -393638047655145216
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_5
+  - first:
+      213: 6900945814872135088
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_6
+  - first:
+      213: 3687787104076078275
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_7
+  - first:
+      213: 4042226007944968049
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_8
+  - first:
+      213: -3030083551036834531
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_9
+  - first:
+      213: 2826715266437990019
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_10
+  - first:
+      213: 9073671398633360074
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_11
+  - first:
+      213: -4586401861659005804
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_12
+  - first:
+      213: -1777991002344972216
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_13
+  - first:
+      213: 6854020655495250274
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_14
+  - first:
+      213: -8018252362727924643
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_15
+  - first:
+      213: 1751288821806391623
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_16
+  - first:
+      213: 4077374463152271742
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_17
+  - first:
+      213: 1015906945247875834
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_18
+  - first:
+      213: 8561602067766241502
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_19
+  - first:
+      213: -4351723881714314414
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_20
+  - first:
+      213: 3114546373093209900
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_21
+  - first:
+      213: 5383973305149146171
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_22
+  - first:
+      213: 5111306558170088716
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_23
+  - first:
+      213: -8459406380522394542
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_24
+  - first:
+      213: -6663277114676715630
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_25
+  - first:
+      213: -7859898774090666222
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_26
+  - first:
+      213: 553989453350548556
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_27
+  - first:
+      213: 7759284872754019557
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_28
+  - first:
+      213: -2428174074127780348
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_29
+  - first:
+      213: -6404482418427786365
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_30
+  - first:
+      213: -7557282727558185890
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_31
+  - first:
+      213: 2633580160927526935
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_32
+  - first:
+      213: 4679760917661926364
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_33
+  - first:
+      213: -4413582728539012356
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_34
+  - first:
+      213: 2641519399432752602
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_35
+  - first:
+      213: -4534648635148414927
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_36
+  - first:
+      213: 7891436634018483941
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_37
+  - first:
+      213: -3988884047985268754
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_38
+  - first:
+      213: 423515649496586721
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_39
+  - first:
+      213: 1784566303821410280
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_40
+  - first:
+      213: 7245727609168510658
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_41
+  - first:
+      213: -9005435926283326359
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_42
+  - first:
+      213: 4567978350841849151
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_43
+  - first:
+      213: 8279853004686855090
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_44
+  - first:
+      213: 7656018820788229706
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_45
+  - first:
+      213: 7101240961843169160
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_46
+  - first:
+      213: 6011126798155318711
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_47
+  - first:
+      213: -7644889085056481824
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_48
+  - first:
+      213: -6915943961135059385
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_49
+  - first:
+      213: 8885268760498453259
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_50
+  - first:
+      213: -363874272200644276
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_51
+  - first:
+      213: 6207551999144393837
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_52
+  - first:
+      213: 3463747089790701728
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_53
+  - first:
+      213: 2538752628871458652
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_54
+  - first:
+      213: -2801737315561098477
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_55
+  - first:
+      213: 1731503481581693037
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_56
+  - first:
+      213: -3084491885525721791
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_57
+  - first:
+      213: -5882521505109740750
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_58
+  - first:
+      213: -3206618251136603440
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_59
+  - first:
+      213: -8542745827465150680
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_60
+  - first:
+      213: -2648456703164691329
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_61
+  - first:
+      213: -3549611581544651597
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_62
+  - first:
+      213: -5054731186677409318
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_63
+  - first:
+      213: 7289902625339410327
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_64
+  - first:
+      213: -4506445788010459896
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_65
+  - first:
+      213: -4090533104995803858
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_66
+  - first:
+      213: -3050848580932738963
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_67
+  - first:
+      213: -6470783716411069431
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_68
+  - first:
+      213: -6724162027489401243
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_69
+  - first:
+      213: 6350380822079706429
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_70
+  - first:
+      213: -5411375475982057979
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_71
+  - first:
+      213: 1849199417188961065
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_72
+  - first:
+      213: 5514810790316830061
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_73
+  - first:
+      213: 4055981033057682239
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_74
+  - first:
+      213: 4763395982111569139
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_75
+  - first:
+      213: 2343337129848180244
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_76
+  - first:
+      213: 4767909128339706391
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_77
+  - first:
+      213: -1969264349284118094
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_78
+  - first:
+      213: 2882625705048343056
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_79
+  - first:
+      213: 7562857275061577956
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_80
+  - first:
+      213: -375110658743162191
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_81
+  - first:
+      213: 7835627703278016843
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_82
+  - first:
+      213: -8080914592003886031
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_83
+  - first:
+      213: 4647000892646957821
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_84
+  - first:
+      213: -3912388728765909383
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_85
+  - first:
+      213: -3381921566182103224
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_86
+  - first:
+      213: -8637191633075611959
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_87
+  - first:
+      213: 436537940651841939
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_88
+  - first:
+      213: -7204981157076002063
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_89
+  - first:
+      213: -2113660817238506883
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_90
+  - first:
+      213: -8256248965866736330
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_91
+  - first:
+      213: -820484457330239008
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_92
+  - first:
+      213: -3188309267868706007
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_93
+  - first:
+      213: 6319084341322926077
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_94
+  - first:
+      213: -1366013418970932170
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_95
+  - first:
+      213: -6621214217957793861
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_96
+  - first:
+      213: -5032720301079015811
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_97
+  - first:
+      213: -3069336044125396557
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_98
+  - first:
+      213: -3559752745498480435
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_99
+  - first:
+      213: 1369340929670518735
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_100
+  - first:
+      213: 6252149656760905918
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_101
+  - first:
+      213: 8433424159875135565
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_102
+  - first:
+      213: -2990690803745678831
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_103
+  - first:
+      213: 9158321533746403955
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_104
+  - first:
+      213: -6885898869107703523
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_105
+  - first:
+      213: 4335430838765676747
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_106
+  - first:
+      213: 4075871713830766583
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_107
+  - first:
+      213: -3822227435116709788
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_108
+  - first:
+      213: -745256245978238288
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_109
+  - first:
+      213: 925505706209482557
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_110
+  - first:
+      213: -5458966496436461127
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_111
+  - first:
+      213: 5647838406015177868
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_112
+  - first:
+      213: -3263985083427813689
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_113
+  - first:
+      213: 677481519005612246
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_114
+  - first:
+      213: -8007358810078615982
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_115
+  - first:
+      213: -818566258864333238
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_116
+  - first:
+      213: -6663371527517001211
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_117
+  - first:
+      213: -3359359156174107611
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_118
+  - first:
+      213: -7512796731867020929
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_119
+  - first:
+      213: 7979673131145439562
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_120
+  - first:
+      213: 1880241661538887234
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_121
+  - first:
+      213: 5604529704411885654
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_122
+  - first:
+      213: 7754701414225679348
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_123
+  - first:
+      213: -2757727871550630946
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_124
+  - first:
+      213: 5136738852546806385
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_125
+  - first:
+      213: 1799137245208749442
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_126
+  - first:
+      213: -1113966728185201066
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_127
+  - first:
+      213: 6140587697074380173
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_128
+  - first:
+      213: 3761825509010341009
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_129
+  - first:
+      213: 5405616815339498978
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_130
+  - first:
+      213: -2119830685819704999
+    second: PokemonMysteryDungeonRedRescueTeamSheet1_131
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_0
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 267
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0f243a1b131dc70800000000000000
+      internalID: 8994024569853636811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 290
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca711d42ca23f9e0800000000000000
+      internalID: -1588879229526639921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 290
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03833928958b0d6f0800000000000000
+      internalID: -661826450641176528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 270
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01e7011559128440800000000000000
+      internalID: 4936535994700128524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_4
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 270
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d943c136a2d7aa0800000000000000
+      internalID: -6161722110009631488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 270
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001df6ff744898af0800000000000000
+      internalID: -393638047655145216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_6
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 265
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b51ca5e7a515cf50800000000000000
+      internalID: 6900945814872135088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_7
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 265
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc98b915d6ad2330800000000000000
+      internalID: 3687787104076078275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 264
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177b769332fd81830800000000000000
+      internalID: 4042226007944968049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_9
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 270
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1df1bc701bf2f5d0800000000000000
+      internalID: -3030083551036834531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_10
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 270
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386c539ee828a3720800000000000000
+      internalID: 2826715266437990019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 270
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acac92c00182ced70800000000000000
+      internalID: 9073671398633360074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_12
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 264
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cef9e7ec3d950c0800000000000000
+      internalID: -4586401861659005804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_13
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 269
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84023638a9e4357e0800000000000000
+      internalID: -1777991002344972216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 244
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2610cf5d87f5e1f50800000000000000
+      internalID: 6854020655495250274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_15
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 244
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c5a2865f179b090800000000000000
+      internalID: -8018252362727924643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_16
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 244
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741e1ea97e3dd4810800000000000000
+      internalID: 1751288821806391623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 239
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71b07ca87eb59830800000000000000
+      internalID: 4077374463152271742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_18
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 239
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af21a54fbf9391e00800000000000000
+      internalID: 1015906945247875834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 238
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8e47528bbe0d670800000000000000
+      internalID: 8561602067766241502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_20
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 244
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25395dd9f229b93c0800000000000000
+      internalID: -4351723881714314414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_21
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 244
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27b3bcbc67193b20800000000000000
+      internalID: 3114546373093209900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_22
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 244
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34c99d0237b7ba40800000000000000
+      internalID: 5383973305149146171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_23
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 238
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c054ad9db320fe640800000000000000
+      internalID: 5111306558170088716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_24
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 243
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c2a4e77b62a9a80800000000000000
+      internalID: -8459406380522394542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_25
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 214
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f54bb84c84783a0800000000000000
+      internalID: -6663277114676715630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 214
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f2ccf55b70ce290800000000000000
+      internalID: -7859898774090666222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_27
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 214
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44b540097a20b700800000000000000
+      internalID: 553989453350548556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_28
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 214
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecb0973b748eab60800000000000000
+      internalID: 7759284872754019557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_29
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 214
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406fcca6b846d4ed0800000000000000
+      internalID: -2428174074127780348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_30
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 214
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b806f3c25be17a0800000000000000
+      internalID: -6404482418427786365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_31
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 214
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cf2b446632f1790800000000000000
+      internalID: -7557282727558185890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 214
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710f99bf33b5c8420800000000000000
+      internalID: 2633580160927526935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_33
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 214
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3cefa92c9d1f040800000000000000
+      internalID: 4679760917661926364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_34
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 214
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf202ae74edcfb2c0800000000000000
+      internalID: -4413582728539012356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_35
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 181
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add0e7ef5ef88a420800000000000000
+      internalID: 2641519399432752602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_36
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 204
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130d4c88711b111c0800000000000000
+      internalID: -4534648635148414927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_37
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 202
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee0d2adec3048d60800000000000000
+      internalID: 7891436634018483941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_38
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 202
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7ad95a713a4a8c0800000000000000
+      internalID: -3988884047985268754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_39
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 181
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e910154d31a0e500800000000000000
+      internalID: 423515649496586721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_40
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 204
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef2869299d04c810800000000000000
+      internalID: 1784566303821410280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_41
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 181
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cebabbfedefd8460800000000000000
+      internalID: 7245727609168510658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_42
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 181
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c6756ecb3460380800000000000000
+      internalID: -9005435926283326359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_43
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 181
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f356a9f9b18b46f30800000000000000
+      internalID: 4567978350841849151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_44
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 181
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb8fc07072f7e270800000000000000
+      internalID: 8279853004686855090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_45
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 181
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4699cedd84af3a60800000000000000
+      internalID: 7656018820788229706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_46
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 181
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8878d13e70dac8260800000000000000
+      internalID: 7101240961843169160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_47
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 181
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b501ef79ffcb6350800000000000000
+      internalID: 6011126798155318711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_48
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 181
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e582f9a1e5e7e590800000000000000
+      internalID: -7644889085056481824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_49
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 159
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e690e0c91a500a0800000000000000
+      internalID: -6915943961135059385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_50
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 159
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bb26b8cd0de4b70800000000000000
+      internalID: 8885268760498453259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_51
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 159
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49a39ef64243faf0800000000000000
+      internalID: -363874272200644276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_52
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 159
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c74c977a7a52650800000000000000
+      internalID: 6207551999144393837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_53
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 159
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a094ce50a3b11030800000000000000
+      internalID: 3463747089790701728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_54
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 159
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fe878a0167b3320800000000000000
+      internalID: 2538752628871458652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_55
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 159
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313360871ca3e19d0800000000000000
+      internalID: -2801737315561098477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_56
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 159
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68670b1e39870810800000000000000
+      internalID: 1731503481581693037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_57
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 159
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d1aa2f8fea135d0800000000000000
+      internalID: -3084491885525721791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_58
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 159
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2337658abd51d5ea0800000000000000
+      internalID: -5882521505109740750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_59
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 159
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dae7b2a0bdcf73d0800000000000000
+      internalID: -3206618251136603440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_60
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 159
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f3d7b6ee1127980800000000000000
+      internalID: -8542745827465150680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_61
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 139
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ccddc19aace3bd0800000000000000
+      internalID: -2648456703164691329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_62
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 139
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b42b6fb21f3dbec0800000000000000
+      internalID: -3549611581544651597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_63
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 139
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9110f44ccf9d9b0800000000000000
+      internalID: -5054731186677409318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_64
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 139
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7970b8e60dfea2560800000000000000
+      internalID: 7289902625339410327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 139
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dc4169e63e571c0800000000000000
+      internalID: -4506445788010459896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_66
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 139
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ddfb640d18b37c0800000000000000
+      internalID: -4090533104995803858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_67
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 139
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60eff5316539a5d0800000000000000
+      internalID: -3050848580932738963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_68
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 139
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cafec5e782336a0800000000000000
+      internalID: -6470783716411069431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_69
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 139
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566e25b134afea2a0800000000000000
+      internalID: -6724162027489401243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_70
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 139
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35938046b5112850800000000000000
+      internalID: 6350380822079706429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_71
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 120
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e34dfdcaee6e4b0800000000000000
+      internalID: -5411375475982057979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_72
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 120
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b486c821da9a910800000000000000
+      internalID: 1849199417188961065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_73
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 120
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d6350f13b888c40800000000000000
+      internalID: 5514810790316830061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_74
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 120
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f330023924db94830800000000000000
+      internalID: 4055981033057682239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_75
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 120
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4784e786bfa1240800000000000000
+      internalID: 4763395982111569139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_76
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 120
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e859d34b4358020800000000000000
+      internalID: 2343337129848180244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_77
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 120
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712d70c37140b2240800000000000000
+      internalID: 4767909128339706391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_78
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 119
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b154180284cba4e0800000000000000
+      internalID: -1969264349284118094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_79
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 120
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01201d15ec4210820800000000000000
+      internalID: 2882625705048343056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_80
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 120
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e826073f9aa4f860800000000000000
+      internalID: 7562857275061577956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 98
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1baa622e7d65bcaf0800000000000000
+      internalID: -375110658743162191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_82
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 98
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49981691edbdbc60800000000000000
+      internalID: 7835627703278016843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_83
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 98
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134765b3ef2dadf80800000000000000
+      internalID: -8080914592003886031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_84
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 98
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df22525e0b67d7040800000000000000
+      internalID: 4647000892646957821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_85
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 98
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9767aae0e2764b9c0800000000000000
+      internalID: -3912388728765909383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_86
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 98
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847ab75f0400111d0800000000000000
+      internalID: -3381921566182103224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_87
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 98
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c65d85b8f7822880800000000000000
+      internalID: -8637191633075611959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_88
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 98
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3999883b1f4ee0600800000000000000
+      internalID: 436537940651841939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_89
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 98
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa1a1fafc3c20c90800000000000000
+      internalID: -7204981157076002063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_90
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 98
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7246d47fa4caa2e0800000000000000
+      internalID: -2113660817238506883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_91
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 98
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635b35c1f49eb6d80800000000000000
+      internalID: -8256248965866736330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_92
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 98
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e91a11bbbd0d94f0800000000000000
+      internalID: -820484457330239008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_93
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 69
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b999efc99d0c3d0800000000000000
+      internalID: -3188309267868706007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_94
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 90
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7494e7ab5e1b750800000000000000
+      internalID: 6319084341322926077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_95
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 69
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c12db6802fa0de0800000000000000
+      internalID: -1366013418970932170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_96
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 90
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf1cdcdfb8bc14a0800000000000000
+      internalID: -6621214217957793861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_97
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 69
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ec948fc8f282ab0800000000000000
+      internalID: -5032720301079015811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_98
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 69
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b16a9141278765d0800000000000000
+      internalID: -3069336044125396557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_99
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 69
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc077540db7399ec0800000000000000
+      internalID: -3559752745498480435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_100
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 68
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc71a690250e00310800000000000000
+      internalID: 1369340929670518735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_101
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 68
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb070ddccf814c650800000000000000
+      internalID: 6252149656760905918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_102
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 69
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48fd89579a890570800000000000000
+      internalID: 8433424159875135565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 69
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a16b13f8eee76d0800000000000000
+      internalID: -2990690803745678831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_104
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 69
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ad3cd79e4e81f70800000000000000
+      internalID: 9158321533746403955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_105
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 43
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11429b267f5070a0800000000000000
+      internalID: -6885898869107703523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_106
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 43
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8e6e4b06b8a2c30800000000000000
+      internalID: 4335430838765676747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_107
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 43
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f702f49ab7609830800000000000000
+      internalID: 4075871713830766583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_108
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 43
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468bd171668b4fac0800000000000000
+      internalID: -3822227435116709788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_109
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 43
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b273df846158a5f0800000000000000
+      internalID: -745256245978238288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_110
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 60
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d379638498e08dc00800000000000000
+      internalID: 925505706209482557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_111
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 43
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b16523f4eadd34b0800000000000000
+      internalID: -5458966496436461127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_112
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 43
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84d7535b17216e40800000000000000
+      internalID: 5647838406015177868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_113
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 43
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c68c162cdef3b2d0800000000000000
+      internalID: -3263985083427813689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_114
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 43
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8b8322ad5e66900800000000000000
+      internalID: 677481519005612246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_115
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 19
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2566b28469520e090800000000000000
+      internalID: -8007358810078615982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_116
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 19
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e5543135ed3a4f0800000000000000
+      internalID: -818566258864333238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_117
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 19
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50aa5e756e2f683a0800000000000000
+      internalID: -6663371527517001211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_118
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 37
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c494765a82161d0800000000000000
+      internalID: -3359359156174107611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_119
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 34
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71c9574d2f2db790800000000000000
+      internalID: -7512796731867020929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_120
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 19
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4927a54f6e7dbe60800000000000000
+      internalID: 7979673131145439562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_121
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 19
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2466ae744d5f71a10800000000000000
+      internalID: 1880241661538887234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_122
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 19
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6507894721a47cd40800000000000000
+      internalID: 5604529704411885654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_123
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 19
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3142e99db3e9b60800000000000000
+      internalID: 7754701414225679348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_124
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 19
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3d705ac159ab9d0800000000000000
+      internalID: -2757727871550630946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_125
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 19
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172000255cc594740800000000000000
+      internalID: 5136738852546806385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_126
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 19
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285a7d2dac1d7f810800000000000000
+      internalID: 1799137245208749442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_127
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 4
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ebaeaa9256a80f0800000000000000
+      internalID: -1113966728185201066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_128
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 4
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d904ce9ffb73550800000000000000
+      internalID: 6140587697074380173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_129
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 4
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c70939e50b43430800000000000000
+      internalID: 3761825509010341009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_130
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 4
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed60367adb940b40800000000000000
+      internalID: 5405616815339498978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonMysteryDungeonRedRescueTeamSheet1_131
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 4
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9596ebbf839d492e0800000000000000
+      internalID: -2119830685819704999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
