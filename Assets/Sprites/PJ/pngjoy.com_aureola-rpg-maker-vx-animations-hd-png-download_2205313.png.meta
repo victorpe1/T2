@@ -1,0 +1,1512 @@
+fileFormatVersion: 2
+guid: 97fc33c645ede174abcbf6ab437443cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2481412520761849109
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_0
+  - first:
+      213: -3085413686783837090
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_1
+  - first:
+      213: 971292805830510772
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_2
+  - first:
+      213: -3408946164247268475
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_3
+  - first:
+      213: -1740874039838305967
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_4
+  - first:
+      213: -7699011225269115968
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_5
+  - first:
+      213: 8243291691486126437
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_6
+  - first:
+      213: -746910453640975206
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_7
+  - first:
+      213: 2203277947368039266
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_8
+  - first:
+      213: 4289771434631270531
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_9
+  - first:
+      213: -11481764994433194
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_10
+  - first:
+      213: 7633836569440691459
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_11
+  - first:
+      213: -2881297561836324144
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_12
+  - first:
+      213: -5417393633428350885
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_13
+  - first:
+      213: 965688783187459834
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_14
+  - first:
+      213: 2786718466955992657
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_15
+  - first:
+      213: -3990109412839406612
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_16
+  - first:
+      213: 4057890845806792510
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_17
+  - first:
+      213: 2517816197612539525
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_18
+  - first:
+      213: 2102841946159054555
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_19
+  - first:
+      213: 5834477138225238348
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_20
+  - first:
+      213: -2813703954501833955
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_21
+  - first:
+      213: 7935839154424755226
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_22
+  - first:
+      213: -7862496593402763110
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_23
+  - first:
+      213: 5857841221462177502
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_24
+  - first:
+      213: 8194615169863026091
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_25
+  - first:
+      213: 6553324084796989922
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_26
+  - first:
+      213: -8388399072432561074
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_27
+  - first:
+      213: -8098728004895370618
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_28
+  - first:
+      213: 446453717284678050
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_29
+  - first:
+      213: 2342870623213735736
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_30
+  - first:
+      213: -3913674357094950004
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_31
+  - first:
+      213: 2480303871277194807
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_32
+  - first:
+      213: -5633724110880413004
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_33
+  - first:
+      213: 2621073034660417648
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_34
+  - first:
+      213: -6505112551192212528
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_35
+  - first:
+      213: -5246955260916258047
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_36
+  - first:
+      213: 4285691477584889009
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_37
+  - first:
+      213: 4302190801424626741
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_38
+  - first:
+      213: 1876011357702621590
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_39
+  - first:
+      213: -2012147857549119392
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_40
+  - first:
+      213: -1840990588487276303
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_41
+  - first:
+      213: 8258252261333845802
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_42
+  - first:
+      213: -4568704482967469240
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_43
+  - first:
+      213: 8985709134691086752
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_44
+  - first:
+      213: 3325114981936934700
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_45
+  - first:
+      213: 423524131871030719
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_46
+  - first:
+      213: -8350172645568785171
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_47
+  - first:
+      213: -3005369163592893696
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_48
+  - first:
+      213: -8942493662678396471
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_49
+  - first:
+      213: -2682613438265286118
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_50
+  - first:
+      213: 8349434355660721727
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_51
+  - first:
+      213: 1753668958260396726
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_52
+  - first:
+      213: 1204038965981637723
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_53
+  - first:
+      213: -9112811134368699061
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_54
+  - first:
+      213: -2682533786603017993
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_55
+  - first:
+      213: -157050979111072922
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_56
+  - first:
+      213: -6040142772485543602
+    second: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_0
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1155
+        width: 103
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea88ce9570409dd0800000000000000
+      internalID: -2481412520761849109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_1
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1146
+        width: 126
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cfe1e59986e25d0800000000000000
+      internalID: -3085413686783837090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_2
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1143
+        width: 132
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b88b6829a9ba7d00800000000000000
+      internalID: 971292805830510772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_3
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1141
+        width: 137
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5837c95668df0b0d0800000000000000
+      internalID: -3408946164247268475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 948
+        width: 139
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1511db8c84c27d7e0800000000000000
+      internalID: -1740874039838305967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 948
+        width: 141
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3e61ce41e972590800000000000000
+      internalID: -7699011225269115968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_6
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 948
+        width: 143
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561a5fa5e1e066270800000000000000
+      internalID: 8243291691486126437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_7
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 948
+        width: 144
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c24b356e072a5f0800000000000000
+      internalID: -746910453640975206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_8
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 949
+        width: 145
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263e252ae9d939e10800000000000000
+      internalID: 2203277947368039266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 758
+        width: 145
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38090d04464588b30800000000000000
+      internalID: 4289771434631270531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 761
+        width: 145
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fbc14456537dff0800000000000000
+      internalID: -11481764994433194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_11
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 764
+        width: 145
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30526e20ae5d0f960800000000000000
+      internalID: 7633836569440691459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_12
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 763
+        width: 146
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dafb8e12239308d0800000000000000
+      internalID: -2881297561836324144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_13
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 762
+        width: 146
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b585a07613d81d4b0800000000000000
+      internalID: -5417393633428350885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 569
+        width: 145
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afeb775f4d0d66d00800000000000000
+      internalID: 965688783187459834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_15
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 568
+        width: 145
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15edee75ea96ca620800000000000000
+      internalID: 2786718466955992657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_16
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 568
+        width: 156
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3c3c821a840a8c0800000000000000
+      internalID: -3990109412839406612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_17
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 568
+        width: 161
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f8f918936805830800000000000000
+      internalID: 4057890845806792510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_18
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 567
+        width: 166
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e8b64ed7411f220800000000000000
+      internalID: 2517816197612539525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 376
+        width: 169
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdef993db9bce2d10800000000000000
+      internalID: 2102841946159054555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 376
+        width: 172
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c419d0a7b0a38f050800000000000000
+      internalID: 5834477138225238348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_21
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 376
+        width: 165
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b6ec83927b3f8d0800000000000000
+      internalID: -2813703954501833955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_22
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 376
+        width: 171
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14bf124aa3c12e60800000000000000
+      internalID: 7935839154424755226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_23
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 377
+        width: 173
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98628e610dc2e290800000000000000
+      internalID: -7862496593402763110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 186
+        width: 178
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6b4e30e8b3b4150800000000000000
+      internalID: 5857841221462177502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_25
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 189
+        width: 170
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba586be741f19b170800000000000000
+      internalID: 8194615169863026091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_26
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 193
+        width: 164
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1265cb88512fa50800000000000000
+      internalID: 6553324084796989922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_27
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 194
+        width: 151
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44e07dbc7b669b80800000000000000
+      internalID: -8388399072432561074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_28
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 193
+        width: 135
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68214b7d9c98b9f80800000000000000
+      internalID: -8098728004895370618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_29
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 311
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9e76b5a4f123600800000000000000
+      internalID: 446453717284678050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_30
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 82
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f4a533b6c838020800000000000000
+      internalID: 2342870623213735736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_31
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 81
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bdcc268e5dfa9c0800000000000000
+      internalID: -3913674357094950004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_32
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 75
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ed08eca3fcb6220800000000000000
+      internalID: 2480303871277194807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_33
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 85
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba6b6815cdf0d1b0800000000000000
+      internalID: -5633724110880413004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_34
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 84
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0701a49b90cef5420800000000000000
+      internalID: 2621073034660417648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_35
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 81
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbc04aa99239b5a0800000000000000
+      internalID: -6505112551192212528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_36
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 66
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b28b06df11f27b0800000000000000
+      internalID: -5246955260916258047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_37
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 42
+        width: 73
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4cd5a31b5d97b30800000000000000
+      internalID: 4285691477584889009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_38
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 119
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5343eda6db374bb30800000000000000
+      internalID: 4302190801424626741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_39
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 75
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699867ae36ee80a10800000000000000
+      internalID: 1876011357702621590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_40
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 78
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060b8333f2a6314e0800000000000000
+      internalID: -2012147857549119392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_41
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 77
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8e06250dc7376e0800000000000000
+      internalID: -1840990588487276303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_42
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1
+        width: 104
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27ce567da43b9270800000000000000
+      internalID: 8258252261333845802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_43
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 78
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8434df09a73b890c0800000000000000
+      internalID: -4568704482967469240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_44
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 78
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1be3489d6a3bc70800000000000000
+      internalID: 8985709134691086752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_45
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 63
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f2ea7757e252e20800000000000000
+      internalID: 3325114981936934700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_46
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 66
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd7af934f8a0e500800000000000000
+      internalID: 423524131871030719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_47
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 4
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de450bf483a3e1c80800000000000000
+      internalID: -8350172645568785171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_48
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 67
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bf1293ba8ca46d0800000000000000
+      internalID: -3005369163592893696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_49
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 71
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c15fd5a461e5e380800000000000000
+      internalID: -8942493662678396471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_50
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 65
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12228e7a4175cad0800000000000000
+      internalID: -2682613438265286118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_51
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 45
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e899c2f462fd370800000000000000
+      internalID: 8349434355660721727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_52
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 41
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b28dbe40a8465810800000000000000
+      internalID: 1753668958260396726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_53
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 53
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c601f6f0b95b010800000000000000
+      internalID: 1204038965981637723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_54
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 44
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4daab61e8ac88180800000000000000
+      internalID: -9112811134368699061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_55
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 66
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f82b87dbb9b5cad0800000000000000
+      internalID: -2682533786603017993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_56
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 61
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b057277fa02ddf0800000000000000
+      internalID: -157050979111072922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_aureola-rpg-maker-vx-animations-hd-png-download_2205313_57
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 68
+        width: 19
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e492b55862a1d2ca0800000000000000
+      internalID: -6040142772485543602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

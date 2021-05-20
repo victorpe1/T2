@@ -1,0 +1,1416 @@
+fileFormatVersion: 2
+guid: f62a0e869334e5b44bddd29be5ef34e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2864478441434049059
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_0
+  - first:
+      213: -374044959301049639
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_1
+  - first:
+      213: 3221953304941450971
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_2
+  - first:
+      213: -7014001856230907434
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_3
+  - first:
+      213: -5423803381897993138
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_4
+  - first:
+      213: 8194246717803471978
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_5
+  - first:
+      213: -7418685121702607313
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_6
+  - first:
+      213: 1117083558186259660
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_7
+  - first:
+      213: 6566439814836071120
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_8
+  - first:
+      213: 6578530735218740396
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_9
+  - first:
+      213: -7042851174944891081
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_10
+  - first:
+      213: 2631526480577368799
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_11
+  - first:
+      213: -7929817679727138136
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_12
+  - first:
+      213: 8337052987981128922
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_13
+  - first:
+      213: 4990415513463418247
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_14
+  - first:
+      213: 8865353648092954431
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_15
+  - first:
+      213: -1803280917455782408
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_16
+  - first:
+      213: 7246774764847776256
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_17
+  - first:
+      213: 8423501792165609802
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_18
+  - first:
+      213: -7561020014472619330
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_19
+  - first:
+      213: -2478022488433666764
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_20
+  - first:
+      213: 2125990908583135007
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_21
+  - first:
+      213: 4650979632116804395
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_22
+  - first:
+      213: 1475877329460192216
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_23
+  - first:
+      213: 6596982947810727241
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_24
+  - first:
+      213: -1012366480906192893
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_25
+  - first:
+      213: -7856114155405606610
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_26
+  - first:
+      213: -3096847985763447819
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_27
+  - first:
+      213: -5273993508895116037
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_28
+  - first:
+      213: -4369444497728015591
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_29
+  - first:
+      213: -8864888367570975632
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_30
+  - first:
+      213: 7166918986338483717
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_31
+  - first:
+      213: 6326947202689699564
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_32
+  - first:
+      213: 4055438697704755692
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_33
+  - first:
+      213: -871904028199379756
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_34
+  - first:
+      213: -5994950446210772069
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_35
+  - first:
+      213: -5474844207433156050
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_36
+  - first:
+      213: -6573194578440113474
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_37
+  - first:
+      213: 4087056702229608816
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_38
+  - first:
+      213: 3807368467829821968
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_39
+  - first:
+      213: -1809947899839662470
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_40
+  - first:
+      213: -1629771325002349648
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_41
+  - first:
+      213: -185006034133876862
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_42
+  - first:
+      213: 5121161430983146569
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_43
+  - first:
+      213: -3415941111692375296
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_44
+  - first:
+      213: 5691598180090479354
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_45
+  - first:
+      213: -7760452020982443361
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_46
+  - first:
+      213: 1371103033997698317
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_47
+  - first:
+      213: 7657621656412572995
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_48
+  - first:
+      213: -4084485979930021553
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_49
+  - first:
+      213: 7275299818965380510
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_50
+  - first:
+      213: 3853881161508042637
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_51
+  - first:
+      213: -7858426079776837958
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_52
+  - first:
+      213: -4452154561089636953
+    second: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 320
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ae07047fba0c720800000000000000
+      internalID: 2864478441434049059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 320
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2e5de57102fcaf0800000000000000
+      internalID: -374044959301049639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 320
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd65eefc57da6bc20800000000000000
+      internalID: 3221953304941450971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 320
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d12d69397249ae90800000000000000
+      internalID: -7014001856230907434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_4
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 320
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44686a8f87cab4b0800000000000000
+      internalID: -5423803381897993138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 320
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64269099ffc7b170800000000000000
+      internalID: 8194246717803471978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_6
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 320
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26c07c00398b0990800000000000000
+      internalID: -7418685121702607313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_7
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 320
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc41f1ed39da08f00800000000000000
+      internalID: 1117083558186259660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_8
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 320
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da294a983ea02b50800000000000000
+      internalID: 6566439814836071120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 256
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacc3b069d2ab4b50800000000000000
+      internalID: 6578530735218740396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 256
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f9777cb24c24e90800000000000000
+      internalID: -7042851174944891081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 256
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd219d3446f058420800000000000000
+      internalID: 2631526480577368799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 256
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa604295d0a3f190800000000000000
+      internalID: -7929817679727138136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_13
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 256
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4693e558923b370800000000000000
+      internalID: 8337052987981128922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_14
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 256
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78de5991874814540800000000000000
+      internalID: 4990415513463418247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_15
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 256
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f3bca1c20180b70800000000000000
+      internalID: 8865353648092954431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_16
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 256
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdbecc4f8579f6e0800000000000000
+      internalID: -1803280917455782408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_17
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 256
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002440ae047b19460800000000000000
+      internalID: 7246774764847776256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 192
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41c5e6104a46e470800000000000000
+      internalID: 8423501792165609802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_19
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 192
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba9db95b5cd11790800000000000000
+      internalID: -7561020014472619330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_20
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 192
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4355b770dab4c9dd0800000000000000
+      internalID: -2478022488433666764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_21
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 192
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17cec5a779018d10800000000000000
+      internalID: 2125990908583135007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_22
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 192
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b26ed55599b8040800000000000000
+      internalID: 4650979632116804395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_23
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 192
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3e6829c9e5b7410800000000000000
+      internalID: 1475877329460192216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_24
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 192
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9455199e9013d8b50800000000000000
+      internalID: 6596982947810727241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_25
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 192
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308f213ac0a53f1f0800000000000000
+      internalID: -1012366480906192893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_26
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 192
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2181249cc979f290800000000000000
+      internalID: -7856114155405606610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 128
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb8f2d2a29c505d0800000000000000
+      internalID: -3096847985763447819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_28
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 128
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf43792b8d20fc6b0800000000000000
+      internalID: -5273993508895116037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_29
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 128
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913f22f216d9c53c0800000000000000
+      internalID: -4369444497728015591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_30
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 128
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07480757ff699f480800000000000000
+      internalID: -8864888367570975632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_31
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 128
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e35ba98d2067360800000000000000
+      internalID: 7166918986338483717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_32
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 128
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee88f095f4ddc750800000000000000
+      internalID: 6326947202689699564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_33
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 128
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce190194200d74830800000000000000
+      internalID: 4055438697704755692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_34
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 128
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc91f8e7ef56e3f0800000000000000
+      internalID: -871904028199379756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_35
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 128
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93998fe458adcca0800000000000000
+      internalID: -5994950446210772069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a775743327504b0800000000000000
+      internalID: -5474844207433156050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_37
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2bd807b5257c4a0800000000000000
+      internalID: -6573194578440113474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_38
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 64
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0797641aa6428b830800000000000000
+      internalID: 4087056702229608816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_39
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 64
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012150ef27d76d430800000000000000
+      internalID: 3807368467829821968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_40
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 64
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76b71089f5c1e6e0800000000000000
+      internalID: -1809947899839662470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_41
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 64
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b30e146d93e169e0800000000000000
+      internalID: -1629771325002349648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_42
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 64
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f752efdf9be6df0800000000000000
+      internalID: -185006034133876862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_43
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 64
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c7e2b3035021740800000000000000
+      internalID: 5121161430983146569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_44
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 64
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b4ce748a32890d0800000000000000
+      internalID: -3415941111692375296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af28d80b36e9cfe40800000000000000
+      internalID: 5691598180090479354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_46
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9211e8e0065d4490800000000000000
+      internalID: -7760452020982443361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_47
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05a4ebe1f2270310800000000000000
+      internalID: 1371103033997698317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_48
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d4fce1356554a60800000000000000
+      internalID: 7657621656412572995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_49
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41353c44adf057c0800000000000000
+      internalID: -4084485979930021553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_50
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d25ef93ae07f460800000000000000
+      internalID: 7275299818965380510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_51
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87b1466f7cbb7530800000000000000
+      internalID: 3853881161508042637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_52
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe6c3dbd1341f290800000000000000
+      internalID: -7858426079776837958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_charmander-sprite-rpg-maker-transparent-png_7081150_53
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5fd15e305c632c0800000000000000
+      internalID: -4452154561089636953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

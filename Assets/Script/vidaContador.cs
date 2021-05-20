@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -9,11 +10,21 @@ public class vidaContador : MonoBehaviour
     public Image[] vidas;
     public int vidaRestantes;
 
+    public GameObject muerte;
+
     private void Start()
     {
         
             scoreManager = this;
         
+    }
+
+    IEnumerator xd()
+    {
+
+        yield return new WaitForSeconds(2f);
+
+        FindObjectOfType<levelManager>().Restart();
     }
 
     public void perderVida()
@@ -23,7 +34,13 @@ public class vidaContador : MonoBehaviour
 
         if (vidaRestantes == 0)
         {
-            FindObjectOfType<levelManager>().Restart();
+
+            Instantiate(muerte, transform.position, transform.rotation);
+            GetComponent<Renderer>().enabled = false;
+            StartCoroutine(xd());
+
+            
         }
     }
+
 }

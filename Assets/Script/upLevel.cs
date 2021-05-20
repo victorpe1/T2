@@ -7,7 +7,7 @@ public class upLevel : MonoBehaviour
 {
     public void OnTriggerEnter2D(Collider2D collision)
     {
-        if (puntosManage.scoreManager.score == 10)
+        if (puntosManage.scoreManager.score >= 10)
         {
             Debug.Log(puntosManage.scoreManager.score);
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
